@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+  The contents of <charconv> are available only with C++17 or later.
+C:\Users\HP\source\repos\Sender\Functions.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Sender.cpp
+  The contents of <charconv> are available only with C++17 or later.
+  Создание кода...
+  Sender.vcxproj -> C:\Users\HP\source\repos\Sender\Debug\Sender.exe

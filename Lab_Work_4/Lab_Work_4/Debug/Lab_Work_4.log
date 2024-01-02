@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+  The contents of <charconv> are available only with C++17 or later.
+C:\Users\HP\source\repos\Lab_Work_4\Functions.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_Work_4.cpp
+  The contents of <charconv> are available only with C++17 or later.
+  Создание кода...
+  Lab_Work_4.vcxproj -> C:\Users\HP\source\repos\Lab_Work_4\Debug\Lab_Work_4.exe
