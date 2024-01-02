@@ -1,0 +1,6 @@
+﻿  Employee_functions.cpp
+C:\Users\HP\source\repos\Creator\Employee_functions.cpp(35,19): warning C4018: <: несоответствие типов со знаком и без знака
+  Creator.cpp
+C:\Users\HP\source\repos\Creator\Creator\Creator.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Creator.vcxproj -> C:\Users\HP\source\repos\Creator\Debug\Creator.exe

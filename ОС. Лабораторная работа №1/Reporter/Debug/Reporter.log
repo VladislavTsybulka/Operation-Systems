@@ -1,0 +1,7 @@
+﻿  Employee_functions.cpp
+C:\Users\HP\source\repos\Reporter\Employee_functions.cpp(35,19): warning C4018: <: несоответствие типов со знаком и без знака
+  Reporter.cpp
+C:\Users\HP\source\repos\Reporter\Reporter\Reporter.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Reporter\Reporter\Reporter.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Reporter.vcxproj -> C:\Users\HP\source\repos\Reporter\Debug\Reporter.exe
