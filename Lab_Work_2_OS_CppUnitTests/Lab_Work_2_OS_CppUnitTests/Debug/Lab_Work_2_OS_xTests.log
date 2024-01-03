@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab_Work_2_OS_xTests.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab_Work_2_OS_CppUnitTests.cpp
+C:\Users\HP\source\repos\Lab_Work_2_OS_xTests\Lab_Work_2_OS_xTests\Lab_Work_2_OS_CppUnitTests.cpp(104,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab_Work_2_OS_xTests.vcxproj -> C:\Users\HP\source\repos\Lab_Work_2_OS_xTests\Debug\Lab_Work_2_OS_CppUnitTests.exe
