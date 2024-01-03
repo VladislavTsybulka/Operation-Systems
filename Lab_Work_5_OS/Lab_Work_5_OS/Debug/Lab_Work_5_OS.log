@@ -1,0 +1,12 @@
+﻿  Employee_functions.cpp
+  Lab_Work_5_OS.cpp
+  The contents of <charconv> are available only with C++17 or later.
+  Server.cpp
+  The contents of <charconv> are available only with C++17 or later.
+  Создание кода...
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Manager::Manager(void)" (??0Manager@@QAE@XZ) в функции "public: bool __thiscall Server::CreateClients(int)" (?CreateClients@Server@@QAE_NH@Z).
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Manager::~Manager(void)" (??1Manager@@QAE@XZ) в функции "public: void * __thiscall Manager::`vector deleting destructor'(unsigned int)" (??_EManager@@QAEPAXI@Z).
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall Manager::create(int,class Server *)" (?create@Manager@@QAE_NHPAVServer@@@Z) в функции "public: bool __thiscall Server::CreateClients(int)" (?CreateClients@Server@@QAE_NH@Z).
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall Manager::is_working(void)const " (?is_working@Manager@@QBE_NXZ) в функции "public: void __thiscall Server::Work(void)" (?Work@Server@@QAEXXZ).
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Manager::Manage(void)" (?Manage@Manager@@QAEXXZ) в функции "public: void __thiscall Server::Work(void)" (?Work@Server@@QAEXXZ).
+C:\Users\HP\source\repos\Lab_Work_5_OS\Debug\Lab_Work_5_OS.exe : fatal error LNK1120: неразрешенных внешних элементов: 5

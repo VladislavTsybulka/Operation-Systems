@@ -1,0 +1,9 @@
+﻿  Employee_functions.cpp
+  Client.cpp
+C:\Users\HP\source\repos\Client\Client\Client.cpp(25,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\HP\source\repos\Client\Client\Client.cpp(25,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\HP\source\repos\Client\Client\Client.cpp(25,17): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\HP\source\repos\Client\Client\Client.cpp(25,17): message : этот аргумент используется в качестве размера буфера
+  Client_class.cpp
+  Создание кода...
+  Client.vcxproj -> C:\Users\HP\source\repos\Client\Debug\Client.exe
