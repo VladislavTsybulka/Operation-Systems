@@ -1,5 +1,7 @@
-﻿  Lab_Work_3_OS.cpp
+﻿  LabTests.cpp
 C:\Users\HP\source\repos\Lab_Work_3_OS\Lab_Work_3_OS\Lab_Work_3_OS.cpp(105,20): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\HP\source\repos\Lab_Work_3_OS\Lab_Work_3_OS\Lab_Work_3_OS.cpp(161,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\HP\source\repos\Lab_Work_3_OS\Lab_Work_3_OS\Lab_Work_3_OS.cpp(169,24): warning C4018: <: несоответствие типов со знаком и без знака
-  Lab_Work_3_OS.vcxproj -> C:\Users\HP\source\repos\Lab_Work_3_OS\Debug\Lab_Work_3_OS.exe
+C:\Users\HP\source\repos\Lab_Work_3_OS\LabTests\LabTests.cpp(23,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Lab_Work_3_OS\LabTests\LabTests.cpp(39,22): warning C4018: <: несоответствие типов со знаком и без знака
+  LabTests.vcxproj -> C:\Users\HP\source\repos\Lab_Work_3_OS\Debug\LabTests.dll
