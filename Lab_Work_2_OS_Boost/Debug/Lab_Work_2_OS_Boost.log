@@ -1,0 +1,3 @@
+﻿  Lab_Work_2_OS_Boost.cpp
+C:\Users\HP\source\repos\Lab_Work_2_OS_Boost\Lab_Work_2_OS_Boost\Lab_Work_2_OS_Boost.cpp(94,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab_Work_2_OS_Boost.vcxproj -> C:\Users\HP\source\repos\Lab_Work_2_OS_Boost\Debug\Lab_Work_2_OS_Boost.exe
